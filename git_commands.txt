@@ -1,0 +1,26 @@
+git init
+
+git add filename or . -->staging area
+git commit -m "message"
+
+git checkout hashcode / branch
+
+git checkout branch
+git branch develop  --> new branch from master
+git checkout -b featurebranchname  --> new branch +checkout
+git merge featurename  --> right to left branch merge
+
+touch .gitignore
+
+pushing existing repo to github
+git remote add repopath .git
+git branch -M master
+git push -u origin master
+username,password
+
+pushing branches to github
+git checkout feature
+git push -u origin feature
+
+1. Collaborator
+2. fork(copy in your github) --clone --add,commit,push----PR

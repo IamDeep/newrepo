@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 namaste
-=======
-hi
->>>>>>> 28e7fc2b63529b893ec7b92df39893ab7798c5f6
 changes

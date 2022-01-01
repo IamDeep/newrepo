@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 second file
 1
 2
+=======
+second file............usser 2
+2
+>>>>>>> Stashed changes

@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-second file............usser 2
-=======
-<<<<<<< HEAD
-2
-second file............usser 2
-=======
->>>>>>> affee1fb57543355d26d090784e442abff914490
->>>>>>> 0a85578a00435cbe48334f3ba8ca310cd1197f9a
-2
-
+this is a merge conflict

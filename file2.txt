@@ -1,2 +1,6 @@
 second file
+<<<<<<< HEAD
 1
+=======
+2
+>>>>>>> 49127efc98ececed2b2f342af5bf095e39327389
